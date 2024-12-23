@@ -1,0 +1,12 @@
+REM Title: Force URL
+REM Creator: C0de_Phoenix
+REM For: Win10 (will use default browser)
+GUI R 
+DELAY 1000
+STRING Powershell.exe
+ENTER
+DELAY 1000
+STRING start https://github.com/codeph0enix
+ENTER
+DELAY 4000
+GUI L
